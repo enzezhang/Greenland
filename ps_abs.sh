@@ -1,6 +1,7 @@
 #!/bin/bash
 work_path=/home/zez/JI/velocity_map/Wcoast-69.10N
 output_path=/home/zez/JI/figure_velocity_map
+#test git
 cd $work_path
 pwd
 filename=(`ls | grep "TSX"`)
