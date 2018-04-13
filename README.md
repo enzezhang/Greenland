@@ -24,7 +24,7 @@ extract_monthly_smb_MAR.m  just extract monthly smb
 elevation :
 
 interpolate_elevation.m  interpolate elevation in temporal domain to have temporal varying distribution pattern
-
+nterplated_elevation_daily_smb.m calculate elevation-smb to get loading distribution for dynamics
 
 
 3. calving front data
