@@ -26,3 +26,7 @@ elevation :
 interpolate_elevation.m  interpolate elevation in temporal domain to have temporal varying distribution pattern
 
 
+
+3. calving front data
+saperate.m saperate calving front into two parts because of thickness difference
+boundary_area.m calculate mass loss (not rate) ahead of the fluxgate
